@@ -1,0 +1,47 @@
+.selected{
+    background-color: blue;
+    color: white;
+    margin: 10px;
+    padding: 6px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+.logo{
+    width: 150px;
+    padding-left: 10px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+   background-color: bisque; 
+}
+.inp{
+    width:50% ;
+   border-radius: 10px;
+   padding: 5px; 
+}
+.facebook{
+    background-color: white;
+    border-radius: 10px;
+    margin: 5px;
+    width: 40px;
+}
+.twitter{
+    background-color: white;
+    border-radius: 10px;
+    width: 40px;
+    margin: 5px;
+}
+.instagram{
+    background-color: white;
+    border-radius: 10px;
+    width: 40px;
+    margin: 5px;
+}
+.youtube{
+    margin: 5px;
+    background-color: white;
+    border-radius: 10px;
+    width: 40px;
+}
